@@ -1,3 +1,4 @@
+#solution to https://projecteuler.net/problem=64
 import math
 n = 1
 sum_of_uneven_periods = 0
