@@ -1,4 +1,4 @@
-print('Enter a number:')
+print('Enter a number:') #input the nth prime number you want to find 
 prime_sought = int(input())
 list_of_primes = [2]
 current_number = 2
